@@ -1,0 +1,16 @@
+--- !ruby/object:Player
+count: 2
+game_over: false
+word_display_array:
+- " c "
+- " _ "
+- " i "
+- " c "
+- " _ "
+word:
+- c
+- h
+- i
+- c
+- k
+input: save
